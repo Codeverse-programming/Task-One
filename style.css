@@ -39,34 +39,6 @@ body {
     text-decoration: none;
 }
 
-.design-1 {
-    position: absolute;
-    top: 5em;
-    left: 2em;
-}
-
-.design-2 {
-    position: absolute;
-    top: 0;
-    right: 2em;
-}
-
-.design-3 {
-    position: absolute;
-    right: 0;
-    bottom: 0;
-}
-
-.design-4 {
-    position: absolute;
-    left: 0;
-    bottom: 0;
-}
-
-.design img {
-    width: 70%;
-}
-
 @media only screen and (min-width:768px) {
     .text-container {
         max-width: 800px;
@@ -80,29 +52,5 @@ body {
 
     .text-container img {
         width: 30%;
-    }
-
-    .design-1 {
-        position: absolute;
-        top: 5em;
-        left: 2em;
-    }
-
-    .design-2 {
-        position: absolute;
-        top: 3em;
-        right: 2em;
-    }
-
-    .design-3 {
-        position: absolute;
-        right: 3em;
-        bottom: 5em;
-    }
-
-    .design-4 {
-        position: absolute;
-        left: 3em;
-        bottom: 5em;
     }
 }
